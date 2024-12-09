@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there 👋 I am Stone!
+
+- 🔭 I’m currently working on my final exam.
+- 🌱 I’m currently learning English.
+- 👯 I’m looking for a friend to play DST with me!
+- 📫 How to reach me: 3373558566@qq.com. 
+- 😄 Wish you a good day!
+
+
 
 <!--
 **dongshan24720/dongshan24720** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
